@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/xRrghPm.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='../restaurant_pic/Poughkeepsie Restaurant.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ...  
 <!-- Recommended tools:
